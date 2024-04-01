@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I’m @h-431</h1>
-<h3 align="center">PHP (Laravel) developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 👋 Hi, I’m @h-431
 - 👀 I’m interested in ...
